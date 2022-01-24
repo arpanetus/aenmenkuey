@@ -1,0 +1,400 @@
+    <div class="song last-songs last-archives col-md-6 col-sm-12">
+        <div id="player45055" ></div>
+    </div>
+    <script>
+        var ap45055 = new APlayer({
+            container: document.getElementById('player45055'),
+            mini: false,
+            preload: 'none',
+            listFolded: false,
+            listMaxHeight: '65px',
+            audio: [
+                {
+                    name: '<a href="/kz/audios/45055">Күй_Ықылас</a>  <span class="download-btn audios-list"><a href="https://cdn.qazradio.fm/2021/1/10/1610267002461.mp3" download="Күй_Ықылас"><i class="fa fa-download"></i></a></span>',
+                    artist: '',
+                    url: 'https://cdn.qazradio.fm/2021/1/10/1610267002461.mp3',
+                    cover: 'https://cdn.qazradio.fm/2021/1/10/1610267015573.jpg'
+                }
+            ]
+        });
+    </script>
+    <div class="song last-songs last-archives col-md-6 col-sm-12">
+        <div id="player45054" ></div>
+    </div>
+    <script>
+        var ap45054 = new APlayer({
+            container: document.getElementById('player45054'),
+            mini: false,
+            preload: 'none',
+            listFolded: false,
+            listMaxHeight: '65px',
+            audio: [
+                {
+                    name: '<a href="/kz/audios/45054">Күй_Шерлі</a>  <span class="download-btn audios-list"><a href="https://cdn.qazradio.fm/2021/1/10/1610266988284.mp3" download="Күй_Шерлі"><i class="fa fa-download"></i></a></span>',
+                    artist: '',
+                    url: 'https://cdn.qazradio.fm/2021/1/10/1610266988284.mp3',
+                    cover: 'https://cdn.qazradio.fm/2021/1/10/1610266974677.jpg'
+                }
+            ]
+        });
+    </script>
+    <div class="song last-songs last-archives col-md-6 col-sm-12">
+        <div id="player45053" ></div>
+    </div>
+    <script>
+        var ap45053 = new APlayer({
+            container: document.getElementById('player45053'),
+            mini: false,
+            preload: 'none',
+            listFolded: false,
+            listMaxHeight: '65px',
+            audio: [
+                {
+                    name: '<a href="/kz/audios/45053">Күй_Шамшырақ</a>  <span class="download-btn audios-list"><a href="https://cdn.qazradio.fm/2021/1/10/1610266955832.mp3" download="Күй_Шамшырақ"><i class="fa fa-download"></i></a></span>',
+                    artist: '',
+                    url: 'https://cdn.qazradio.fm/2021/1/10/1610266955832.mp3',
+                    cover: 'https://cdn.qazradio.fm/2021/1/10/1610266942122.jpg'
+                }
+            ]
+        });
+    </script>
+    <div class="song last-songs last-archives col-md-6 col-sm-12">
+        <div id="player45052" ></div>
+    </div>
+    <script>
+        var ap45052 = new APlayer({
+            container: document.getElementById('player45052'),
+            mini: false,
+            preload: 'none',
+            listFolded: false,
+            listMaxHeight: '65px',
+            audio: [
+                {
+                    name: '<a href="/kz/audios/45052">Күй_Шақыру күйі</a>  <span class="download-btn audios-list"><a href="https://cdn.qazradio.fm/2021/1/10/1610266925828.mp3" download="Күй_Шақыру күйі"><i class="fa fa-download"></i></a></span>',
+                    artist: '',
+                    url: 'https://cdn.qazradio.fm/2021/1/10/1610266925828.mp3',
+                    cover: 'https://cdn.qazradio.fm/2021/1/10/1610266911179.jpg'
+                }
+            ]
+        });
+    </script>
+    <div class="song last-songs last-archives col-md-6 col-sm-12">
+        <div id="player45051" ></div>
+    </div>
+    <script>
+        var ap45051 = new APlayer({
+            container: document.getElementById('player45051'),
+            mini: false,
+            preload: 'none',
+            listFolded: false,
+            listMaxHeight: '65px',
+            audio: [
+                {
+                    name: '<a href="/kz/audios/45051">Күй_Үсен Төренің күйі</a>  <span class="download-btn audios-list"><a href="https://cdn.qazradio.fm/2021/1/10/1610266893153.mp3" download="Күй_Үсен Төренің күйі"><i class="fa fa-download"></i></a></span>',
+                    artist: '',
+                    url: 'https://cdn.qazradio.fm/2021/1/10/1610266893153.mp3',
+                    cover: 'https://cdn.qazradio.fm/2021/1/10/1610266877269.jpg'
+                }
+            ]
+        });
+    </script>
+    <div class="song last-songs last-archives col-md-6 col-sm-12">
+        <div id="player45050" ></div>
+    </div>
+    <script>
+        var ap45050 = new APlayer({
+            container: document.getElementById('player45050'),
+            mini: false,
+            preload: 'none',
+            listFolded: false,
+            listMaxHeight: '65px',
+            audio: [
+                {
+                    name: '<a href="/kz/audios/45050">Күй_Тыным</a>  <span class="download-btn audios-list"><a href="https://cdn.qazradio.fm/2021/1/10/1610266851255.mp3" download="Күй_Тыным"><i class="fa fa-download"></i></a></span>',
+                    artist: '',
+                    url: 'https://cdn.qazradio.fm/2021/1/10/1610266851255.mp3',
+                    cover: 'https://cdn.qazradio.fm/2021/1/10/1610266835206.jpg'
+                }
+            ]
+        });
+    </script>
+    <div class="song last-songs last-archives col-md-6 col-sm-12">
+        <div id="player45049" ></div>
+    </div>
+    <script>
+        var ap45049 = new APlayer({
+            container: document.getElementById('player45049'),
+            mini: false,
+            preload: 'none',
+            listFolded: false,
+            listMaxHeight: '65px',
+            audio: [
+                {
+                    name: '<a href="/kz/audios/45049">Күй_Толқын</a>  <span class="download-btn audios-list"><a href="https://cdn.qazradio.fm/2021/1/10/1610266776960.mp3" download="Күй_Толқын"><i class="fa fa-download"></i></a></span>',
+                    artist: '',
+                    url: 'https://cdn.qazradio.fm/2021/1/10/1610266776960.mp3',
+                    cover: 'https://cdn.qazradio.fm/2021/1/10/1610266805485.jpg'
+                }
+            ]
+        });
+    </script>
+    <div class="song last-songs last-archives col-md-6 col-sm-12">
+        <div id="player45047" ></div>
+    </div>
+    <script>
+        var ap45047 = new APlayer({
+            container: document.getElementById('player45047'),
+            mini: false,
+            preload: 'none',
+            listFolded: false,
+            listMaxHeight: '65px',
+            audio: [
+                {
+                    name: '<a href="/kz/audios/45047">Күй_Терісқақпай</a>  <span class="download-btn audios-list"><a href="https://cdn.qazradio.fm/2021/1/10/1610266653292.mp3" download="Күй_Терісқақпай"><i class="fa fa-download"></i></a></span>',
+                    artist: '',
+                    url: 'https://cdn.qazradio.fm/2021/1/10/1610266653292.mp3',
+                    cover: 'https://cdn.qazradio.fm/2021/1/10/1610266677259.jpg'
+                }
+            ]
+        });
+    </script>
+    <div class="song last-songs last-archives col-md-6 col-sm-12">
+        <div id="player45048" ></div>
+    </div>
+    <script>
+        var ap45048 = new APlayer({
+            container: document.getElementById('player45048'),
+            mini: false,
+            preload: 'none',
+            listFolded: false,
+            listMaxHeight: '65px',
+            audio: [
+                {
+                    name: '<a href="/kz/audios/45048">Күй_Тоқтаған</a>  <span class="download-btn audios-list"><a href="https://cdn.qazradio.fm/2021/1/10/1610266710227.mp3" download="Күй_Тоқтаған"><i class="fa fa-download"></i></a></span>',
+                    artist: '',
+                    url: 'https://cdn.qazradio.fm/2021/1/10/1610266710227.mp3',
+                    cover: 'https://cdn.qazradio.fm/2021/1/10/1610266718907.jpg'
+                }
+            ]
+        });
+    </script>
+    <div class="song last-songs last-archives col-md-6 col-sm-12">
+        <div id="player45019" ></div>
+    </div>
+    <script>
+        var ap45019 = new APlayer({
+            container: document.getElementById('player45019'),
+            mini: false,
+            preload: 'none',
+            listFolded: false,
+            listMaxHeight: '65px',
+            audio: [
+                {
+                    name: '<a href="/kz/audios/45019">Күй_Тайшұбар</a>  <span class="download-btn audios-list"><a href="https://cdn.qazradio.fm/2021/1/6/1609916501259.mp3" download="Күй_Тайшұбар"><i class="fa fa-download"></i></a></span>',
+                    artist: '',
+                    url: 'https://cdn.qazradio.fm/2021/1/6/1609916501259.mp3',
+                    cover: 'https://cdn.qazradio.fm/2021/1/6/1609916508163.jpg'
+                }
+            ]
+        });
+    </script>
+    <div class="song last-songs last-archives col-md-6 col-sm-12">
+        <div id="player45012" ></div>
+    </div>
+    <script>
+        var ap45012 = new APlayer({
+            container: document.getElementById('player45012'),
+            mini: false,
+            preload: 'none',
+            listFolded: false,
+            listMaxHeight: '65px',
+            audio: [
+                {
+                    name: '<a href="/kz/audios/45012">Күй_Ортеке</a>  <span class="download-btn audios-list"><a href="https://cdn.qazradio.fm/2021/1/6/1609916098482.mp3" download="Күй_Ортеке"><i class="fa fa-download"></i></a></span>',
+                    artist: '',
+                    url: 'https://cdn.qazradio.fm/2021/1/6/1609916098482.mp3',
+                    cover: 'https://cdn.qazradio.fm/2021/1/6/1609915949532.jpg'
+                }
+            ]
+        });
+    </script>
+    <div class="song last-songs last-archives col-md-6 col-sm-12">
+        <div id="player45006" ></div>
+    </div>
+    <script>
+        var ap45006 = new APlayer({
+            container: document.getElementById('player45006'),
+            mini: false,
+            preload: 'none',
+            listFolded: false,
+            listMaxHeight: '65px',
+            audio: [
+                {
+                    name: '<a href="/kz/audios/45006">Күй_Мамық</a>  <span class="download-btn audios-list"><a href="https://cdn.qazradio.fm/2021/1/6/1609915712419.mp3" download="Күй_Мамық"><i class="fa fa-download"></i></a></span>',
+                    artist: '',
+                    url: 'https://cdn.qazradio.fm/2021/1/6/1609915712419.mp3',
+                    cover: 'https://cdn.qazradio.fm/2021/1/6/1609915718772.jpg'
+                }
+            ]
+        });
+    </script>
+    <div class="song last-songs last-archives col-md-6 col-sm-12">
+        <div id="player45001" ></div>
+    </div>
+    <script>
+        var ap45001 = new APlayer({
+            container: document.getElementById('player45001'),
+            mini: false,
+            preload: 'none',
+            listFolded: false,
+            listMaxHeight: '65px',
+            audio: [
+                {
+                    name: '<a href="/kz/audios/45001">Күй_Қанағат</a>  <span class="download-btn audios-list"><a href="https://cdn.qazradio.fm/2021/1/6/1609915506114.mp3" download="Күй_Қанағат"><i class="fa fa-download"></i></a></span>',
+                    artist: '',
+                    url: 'https://cdn.qazradio.fm/2021/1/6/1609915506114.mp3',
+                    cover: 'https://cdn.qazradio.fm/2021/1/6/1609915485761.jpg'
+                }
+            ]
+        });
+    </script>
+    <div class="song last-songs last-archives col-md-6 col-sm-12">
+        <div id="player45008" ></div>
+    </div>
+    <script>
+        var ap45008 = new APlayer({
+            container: document.getElementById('player45008'),
+            mini: false,
+            preload: 'none',
+            listFolded: false,
+            listMaxHeight: '65px',
+            audio: [
+                {
+                    name: '<a href="/kz/audios/45008">Күй_Мыңжылқы</a>  <span class="download-btn audios-list"><a href="https://cdn.qazradio.fm/2021/1/6/1609915792597.mp3" download="Күй_Мыңжылқы"><i class="fa fa-download"></i></a></span>',
+                    artist: '',
+                    url: 'https://cdn.qazradio.fm/2021/1/6/1609915792597.mp3',
+                    cover: 'https://cdn.qazradio.fm/2021/1/6/1609915776549.jpg'
+                }
+            ]
+        });
+    </script>
+    <div class="song last-songs last-archives col-md-6 col-sm-12">
+        <div id="player45021" ></div>
+    </div>
+    <script>
+        var ap45021 = new APlayer({
+            container: document.getElementById('player45021'),
+            mini: false,
+            preload: 'none',
+            listFolded: false,
+            listMaxHeight: '65px',
+            audio: [
+                {
+                    name: '<a href="/kz/audios/45021">Күй_Тепеңкөк</a>  <span class="download-btn audios-list"><a href="https://cdn.qazradio.fm/2021/1/6/1609916579601.mp3" download="Күй_Тепеңкөк"><i class="fa fa-download"></i></a></span>',
+                    artist: '',
+                    url: 'https://cdn.qazradio.fm/2021/1/6/1609916579601.mp3',
+                    cover: 'https://cdn.qazradio.fm/2021/1/6/1609916565720.jpg'
+                }
+            ]
+        });
+    </script>
+    <div class="song last-songs last-archives col-md-6 col-sm-12">
+        <div id="player44998" ></div>
+    </div>
+    <script>
+        var ap44998 = new APlayer({
+            container: document.getElementById('player44998'),
+            mini: false,
+            preload: 'none',
+            listFolded: false,
+            listMaxHeight: '65px',
+            audio: [
+                {
+                    name: '<a href="/kz/audios/44998">Күй_Ілме 1</a>  <span class="download-btn audios-list"><a href="https://cdn.qazradio.fm/2021/1/6/1609915304628.mp3" download="Күй_Ілме 1"><i class="fa fa-download"></i></a></span>',
+                    artist: '',
+                    url: 'https://cdn.qazradio.fm/2021/1/6/1609915304628.mp3',
+                    cover: 'https://cdn.qazradio.fm/2021/1/6/1609915311708.jpg'
+                }
+            ]
+        });
+    </script>
+    <div class="song last-songs last-archives col-md-6 col-sm-12">
+        <div id="player45010" ></div>
+    </div>
+    <script>
+        var ap45010 = new APlayer({
+            container: document.getElementById('player45010'),
+            mini: false,
+            preload: 'none',
+            listFolded: false,
+            listMaxHeight: '65px',
+            audio: [
+                {
+                    name: '<a href="/kz/audios/45010">Күй_Нар идірген 2</a>  <span class="download-btn audios-list"><a href="https://cdn.qazradio.fm/2021/1/6/1609915881434.mp3" download="Күй_Нар идірген 2"><i class="fa fa-download"></i></a></span>',
+                    artist: '',
+                    url: 'https://cdn.qazradio.fm/2021/1/6/1609915881434.mp3',
+                    cover: 'https://cdn.qazradio.fm/2021/1/6/1609915867658.jpg'
+                }
+            ]
+        });
+    </script>
+    <div class="song last-songs last-archives col-md-6 col-sm-12">
+        <div id="player45018" ></div>
+    </div>
+    <script>
+        var ap45018 = new APlayer({
+            container: document.getElementById('player45018'),
+            mini: false,
+            preload: 'none',
+            listFolded: false,
+            listMaxHeight: '65px',
+            audio: [
+                {
+                    name: '<a href="/kz/audios/45018">Күй_Сыр жаңылтпаш</a>  <span class="download-btn audios-list"><a href="https://cdn.qazradio.fm/2021/1/6/1609916469673.mp3" download="Күй_Сыр жаңылтпаш"><i class="fa fa-download"></i></a></span>',
+                    artist: '',
+                    url: 'https://cdn.qazradio.fm/2021/1/6/1609916469673.mp3',
+                    cover: 'https://cdn.qazradio.fm/2021/1/6/1609916476066.jpg'
+                }
+            ]
+        });
+    </script>
+    <div class="song last-songs last-archives col-md-6 col-sm-12">
+        <div id="player44988" ></div>
+    </div>
+    <script>
+        var ap44988 = new APlayer({
+            container: document.getElementById('player44988'),
+            mini: false,
+            preload: 'none',
+            listFolded: false,
+            listMaxHeight: '65px',
+            audio: [
+                {
+                    name: '<a href="/kz/audios/44988">Күй_Ақжелең</a>  <span class="download-btn audios-list"><a href="https://cdn.qazradio.fm/2021/1/6/1609914749997.mp3" download="Күй_Ақжелең"><i class="fa fa-download"></i></a></span>',
+                    artist: '',
+                    url: 'https://cdn.qazradio.fm/2021/1/6/1609914749997.mp3',
+                    cover: 'https://cdn.qazradio.fm/2021/1/6/1609914806046.jpg'
+                }
+            ]
+        });
+    </script>
+    <div class="song last-songs last-archives col-md-6 col-sm-12">
+        <div id="player45017" ></div>
+    </div>
+    <script>
+        var ap45017 = new APlayer({
+            container: document.getElementById('player45017'),
+            mini: false,
+            preload: 'none',
+            listFolded: false,
+            listMaxHeight: '65px',
+            audio: [
+                {
+                    name: '<a href="/kz/audios/45017">Күй_Сарыарқа сапары (2 түрі)</a>  <span class="download-btn audios-list"><a href="https://cdn.qazradio.fm/2021/1/6/1609916437269.mp3" download="Күй_Сарыарқа сапары (2 түрі)"><i class="fa fa-download"></i></a></span>',
+                    artist: '',
+                    url: 'https://cdn.qazradio.fm/2021/1/6/1609916437269.mp3',
+                    cover: 'https://cdn.qazradio.fm/2021/1/6/1609916429144.jpg'
+                }
+            ]
+        });
+    </script>
