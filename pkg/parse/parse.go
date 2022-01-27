@@ -103,8 +103,8 @@ func (p *Parse) Songs(in *DefaultResponse) (songs []*Song, err error) {
 		song := &Song{
 			Link:     link,
 			Title:    title,
-			RawValue: maybeSongs[0],
-			IsParsed: link != "" && title != "",
+			RawValue: maybeSongs[i],
+			IsParsed: link == "" || title == "",
 		}
 
 		songs = append(songs, song)
